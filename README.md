@@ -2,6 +2,7 @@
 PennApps XII Project
 
 # Description
+This repository contains the back-end portion of the project.
 View the project page at http://loop.tf/groupthink
 
 # Requirements
